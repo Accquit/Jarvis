@@ -1,0 +1,66 @@
+[
+  {
+    "id": "9d3dc0a0-e344-4506-bec3-c59dafd26472",
+    "text": "User loves the movie The Room",
+    "tokens": [
+      "user",
+      "loves",
+      "movie",
+      "room"
+    ],
+    "source": "conversation"
+  },
+  {
+    "id": "1a958f2e-5102-4c83-85b8-c22bd346c4c7",
+    "text": "User is asking if someone knows Bhojpuri.",
+    "tokens": [
+      "user",
+      "asking",
+      "if",
+      "someone",
+      "knows",
+      "bhojpuri"
+    ],
+    "source": "conversation"
+  },
+  {
+    "id": "cbe22729-b7c8-44e6-98a6-8208e2a0983b",
+    "text": "User is years away from deciding on travel destinations.",
+    "tokens": [
+      "user",
+      "years",
+      "away",
+      "from",
+      "deciding",
+      "travel",
+      "destinations"
+    ],
+    "source": "conversation"
+  },
+  {
+    "id": "8fa7a729-31d5-4b8d-bbcf-3637fe19d5f2",
+    "text": "User is planning to visit Jasper.",
+    "tokens": [
+      "user",
+      "planning",
+      "visit",
+      "jasper"
+    ],
+    "source": "conversation"
+  },
+  {
+    "id": "f73a250e-c10c-42b9-b111-cb390df03281",
+    "text": "User is planning a trip to Jaipur from Delhi and wants an itinerary.",
+    "tokens": [
+      "user",
+      "planning",
+      "trip",
+      "jaipur",
+      "from",
+      "delhi",
+      "wants",
+      "itinerary"
+    ],
+    "source": "conversation"
+  }
+]
